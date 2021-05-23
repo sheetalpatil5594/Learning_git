@@ -1,0 +1,15 @@
+
+U
+java:S1854%"?Remove this useless assignment to local variable "accessToken".(ª…»À
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(·Ùãçýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç¥ì´øÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ø÷›ûûÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(¢†™>
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(«½Þÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(‹“Ùµ
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú©ê‰úÿÿÿÿ
+F
+java:S1481%"0Remove this unused "accessToken" local variable.(ª…»À
